@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279506425554",
+    "project_id": "home-here-2025",
+    "storage_bucket": "home-here-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279506425554:android:51b8eec44484b769c93f0b",
+        "android_client_info": {
+          "package_name": "com.example.home_here"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqnAxpLciiE0nO2iQnzNOitHZAHJ0d39A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
