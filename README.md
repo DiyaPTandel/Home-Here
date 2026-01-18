@@ -19,7 +19,7 @@ HomeHere is a **Flutter** mobile app that helps users:
 ### 🔍 Search & Discovery
 - Location-based search with GPS
 - Browse by category: Hostel | PG | Flat
-- Interactive map view with category markers
+- Interactive map view with category markers (custom map API)
 - Smart filtering & sorting (price, rating, distance)
 
 ### ❤️ Favorites & Reviews
@@ -44,13 +44,12 @@ HomeHere is a **Flutter** mobile app that helps users:
 
 ## 🛠 Tech Stack
 
-| Layer               | Technology                |
-|--------------------|---------------------------|
-| Framework          | Flutter                  |
-| Language           | Dart                     |
-| Backend (planned)  | Firebase / PHP API / Node.js |
-| Maps               | Google Maps API          |
-| State Management   | Provider / Riverpod       |
+| Layer              | Technology                        |
+|-------------------|-----------------------------------|
+| Framework         | Flutter                           |
+| Language          | Dart                              |
+| Backend           | Firebase (Auth, Firestore, Storage)|
+| Maps              | Custom Map API                    |
 
 ---
 
@@ -58,7 +57,7 @@ HomeHere is a **Flutter** mobile app that helps users:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/DiyaPTandel/Home-Here.git
 
 # Go into the project directory
 cd home_here
