@@ -1,24 +1,70 @@
-# home_here
+# 🏠 HomeHere
 
-An app which helps students and professionals to find hostels, pgs and flats.
+**Find verified Hostels, PGs, and Flats near you — designed for students & working professionals**
 
-#features 
-1. Location-based property search with GPS integration
-2. Category-based browsing (Hostel, PG, Flat)
-3. Interactive map view with category-based pins
-4. Save and manage favorite properties
-5. Reviews and ratings system
-6. Recommended/top-rated property suggestions
-7. Virtual property tours with image galleries
-8. Admin panel (for owners/managers to list and manage properties)
-9. Scheduling property visits
-10. Sorting options
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+HomeHere is a **Flutter** mobile app that helps users:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Discover rental properties in their preferred location
+- Bookmark favorites & schedule visits
+- Connect directly with property owners
+
+---
+
+## 🚀 Key Features
+
+### 🔍 Search & Discovery
+- Location-based search with GPS
+- Browse by category: Hostel | PG | Flat
+- Interactive map view with category markers
+- Smart filtering & sorting (price, rating, distance)
+
+### ❤️ Favorites & Reviews
+- Save and manage favorite properties
+- Read/write reviews from real tenants
+- Recommended/top-rated suggestions
+
+### 🏢 Virtual Tours & Admin Panel
+- Photo galleries & virtual property walkthroughs
+- Admin panel for owners/managers to:
+  - Add/update property details
+  - Upload images
+  - Manage booking requests
+  - Track property visibility
+
+### 📅 Visit & Booking
+- Schedule property visits
+- Receive reminders & notifications
+- Contact property owners directly
+
+---
+
+## 🛠 Tech Stack
+
+| Layer               | Technology                |
+|--------------------|---------------------------|
+| Framework          | Flutter                  |
+| Language           | Dart                     |
+| Backend (planned)  | Firebase / PHP API / Node.js |
+| Maps               | Google Maps API          |
+| State Management   | Provider / Riverpod       |
+
+---
+
+## ⚡ Quick Start
+
+```bash
+# Clone the repository
+git clone <repository-url>
+
+# Go into the project directory
+cd home_here
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
